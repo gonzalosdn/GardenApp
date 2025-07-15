@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MiHoroscopo"
+rootProject.name = "GardenAPP"
 include(":app")
  
